@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: dd0b52da178f846c2ad93399cc9bc146
+timeCreated: 1490842970
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: main menu background sprites..._0
+    21300002: main menu background sprites..._1
+    21300004: main menu background sprites..._2
+    21300006: main menu background sprites..._3
+    21300008: main menu background sprites..._4
+    21300010: main menu background sprites..._5
+    21300012: main menu background sprites..._6
+    21300014: main menu background sprites..._7
+    21300016: main menu background sprites..._8
+    21300018: main menu background sprites..._9
+    21300020: main menu background sprites..._10
+    21300022: main menu background sprites..._11
+    21300024: main menu background sprites..._12
+    21300026: main menu background sprites..._13
+    21300028: main menu background sprites..._14
+    21300030: main menu background sprites..._15
+    21300032: main menu background sprites..._16
+    21300034: main menu background sprites..._17
+    21300036: main menu background sprites..._18
+    21300038: main menu background sprites..._19
+    21300040: main menu background sprites..._20
+    21300042: main menu background sprites..._21
+    21300044: main menu background sprites..._22
+    21300046: main menu background sprites..._23
+    21300048: main menu background sprites..._24
+    21300050: main menu background sprites..._25
+    21300052: main menu background sprites..._26
+    21300054: main menu background sprites..._27
+    21300056: main menu background sprites..._28
+    21300058: main menu background sprites..._29
+    21300060: main menu background sprites..._30
+    21300062: main menu background sprites..._31
+    21300064: main menu background sprites..._32
+    21300066: main menu background sprites..._33
+    21300068: main menu background sprites..._34
+    21300070: ackground sprites..._35rites..._35
+    21300072: main menu background sprites..._35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main menu background sprites..._0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1356
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1356
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1357
+        width: 473
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._3
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1357
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._4
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1357
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._5
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1357
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1098
+        width: 474
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1096
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1096
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._9
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1101
+        width: 474
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._10
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1099
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._11
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1101
+        width: 474
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 837
+        width: 474
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 837
+        width: 470
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._14
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 834
+        width: 476
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._15
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 834
+        width: 473
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._16
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 836
+        width: 471
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._17
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 837
+        width: 470
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 572
+        width: 470
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 572
+        width: 467
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._20
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 569
+        width: 476
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._21
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 569
+        width: 470
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._22
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 572
+        width: 467
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._23
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 572
+        width: 467
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 305
+        width: 463
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 304
+        width: 470
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._26
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 302
+        width: 473
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._27
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 302
+        width: 467
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._28
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 301
+        width: 467
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._29
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 302
+        width: 465
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 467
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 25
+        width: 465
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._32
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 27
+        width: 472
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._33
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 24
+        width: 470
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._34
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 24
+        width: 466
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu background sprites..._35
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 25
+        width: 463
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

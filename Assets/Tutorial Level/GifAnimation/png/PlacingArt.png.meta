@@ -1,0 +1,1996 @@
+fileFormatVersion: 2
+guid: 643bff260f6069d4ea949d5d3a24e70d
+timeCreated: 1490288959
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlacingArt_0
+    21300002: PlacingArt_1
+    21300004: PlacingArt_2
+    21300006: PlacingArt_3
+    21300008: PlacingArt_4
+    21300010: PlacingArt_5
+    21300012: PlacingArt_6
+    21300014: PlacingArt_7
+    21300016: PlacingArt_8
+    21300018: PlacingArt_9
+    21300020: PlacingArt_10
+    21300022: PlacingArt_11
+    21300024: PlacingArt_12
+    21300026: PlacingArt_13
+    21300028: PlacingArt_14
+    21300030: PlacingArt_15
+    21300032: PlacingArt_16
+    21300034: PlacingArt_17
+    21300036: PlacingArt_18
+    21300038: PlacingArt_19
+    21300040: PlacingArt_20
+    21300042: PlacingArt_21
+    21300044: PlacingArt_22
+    21300046: PlacingArt_23
+    21300048: PlacingArt_24
+    21300050: PlacingArt_25
+    21300052: PlacingArt_26
+    21300054: PlacingArt_27
+    21300056: PlacingArt_28
+    21300058: PlacingArt_29
+    21300060: PlacingArt_30
+    21300062: PlacingArt_31
+    21300064: PlacingArt_32
+    21300066: PlacingArt_33
+    21300068: PlacingArt_34
+    21300070: PlacingArt_35
+    21300072: PlacingArt_36
+    21300074: PlacingArt_37
+    21300076: PlacingArt_38
+    21300078: PlacingArt_39
+    21300080: PlacingArt_40
+    21300082: PlacingArt_41
+    21300084: PlacingArt_42
+    21300086: PlacingArt_43
+    21300088: PlacingArt_44
+    21300090: PlacingArt_45
+    21300092: PlacingArt_46
+    21300094: PlacingArt_47
+    21300096: PlacingArt_48
+    21300098: PlacingArt_49
+    21300100: PlacingArt_50
+    21300102: PlacingArt_51
+    21300104: PlacingArt_52
+    21300106: PlacingArt_53
+    21300108: PlacingArt_54
+    21300110: PlacingArt_55
+    21300112: PlacingArt_56
+    21300114: PlacingArt_57
+    21300116: PlacingArt_58
+    21300118: PlacingArt_59
+    21300120: PlacingArt_60
+    21300122: PlacingArt_61
+    21300124: PlacingArt_62
+    21300126: PlacingArt_63
+    21300128: PlacingArt_64
+    21300130: PlacingArt_65
+    21300132: PlacingArt_66
+    21300134: PlacingArt_67
+    21300136: PlacingArt_68
+    21300138: PlacingArt_69
+    21300140: PlacingArt_70
+    21300142: PlacingArt_71
+    21300144: PlacingArt_72
+    21300146: PlacingArt_73
+    21300148: PlacingArt_74
+    21300150: PlacingArt_75
+    21300152: PlacingArt_76
+    21300154: PlacingArt_77
+    21300156: PlacingArt_78
+    21300158: PlacingArt_79
+    21300160: PlacingArt_80
+    21300162: PlacingArt_81
+    21300164: PlacingArt_82
+    21300166: PlacingArt_83
+    21300168: PlacingArt_84
+    21300170: PlacingArt_85
+    21300172: PlacingArt_86
+    21300174: PlacingArt_87
+    21300176: PlacingArt_88
+    21300178: PlacingArt_89
+    21300180: PlacingArt_90
+    21300182: PlacingArt_91
+    21300184: PlacingArt_92
+    21300186: PlacingArt_93
+    21300188: PlacingArt_94
+    21300190: PlacingArt_95
+    21300192: PlacingArt_96
+    21300194: PlacingArt_97
+    21300196: PlacingArt_98
+    21300198: PlacingArt_99
+    21300200: PlacingArt_100
+    21300202: PlacingArt_101
+    21300204: PlacingArt_102
+    21300206: PlacingArt_103
+    21300208: PlacingArt_104
+    21300210: PlacingArt_105
+    21300212: PlacingArt_106
+    21300214: PlacingArt_107
+    21300216: PlacingArt_108
+    21300218: PlacingArt_109
+    21300220: PlacingArt_110
+    21300222: PlacingArt_111
+    21300224: PlacingArt_112
+    21300226: PlacingArt_113
+    21300228: PlacingArt_114
+    21300230: PlacingArt_115
+    21300232: PlacingArt_116
+    21300234: PlacingArt_117
+    21300236: PlacingArt_118
+    21300238: PlacingArt_119
+    21300240: PlacingArt_120
+    21300242: PlacingArt_121
+    21300244: PlacingArt_122
+    21300246: PlacingArt_123
+    21300248: PlacingArt_124
+    21300250: PlacingArt_125
+    21300252: PlacingArt_126
+    21300254: PlacingArt_127
+    21300256: PlacingArt_128
+    21300258: PlacingArt_129
+    21300260: PlacingArt_130
+    21300262: PlacingArt_131
+    21300264: PlacingArt_132
+    21300266: PlacingArt_133
+    21300268: PlacingArt_134
+    21300270: PlacingArt_135
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlacingArt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_10
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_11
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_18
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_19
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_20
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_21
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_22
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_23
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_31
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_32
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_33
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_34
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_35
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_41
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_42
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_43
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_46
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_47
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_51
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_52
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_53
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_54
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_55
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_56
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_57
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_58
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_59
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_64
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_65
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_66
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_67
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_68
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_69
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_70
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_71
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_73
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_75
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_76
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_77
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_78
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_79
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_80
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_81
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_82
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_83
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_86
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_87
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_88
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_89
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_90
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_91
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_92
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_93
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_94
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_95
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_98
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_99
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_100
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_101
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_102
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_103
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_104
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_105
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_106
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_107
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_112
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_113
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_114
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_115
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_116
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_117
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_118
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_119
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_121
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_123
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_124
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_125
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_126
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_127
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_128
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_129
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_130
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_131
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_134
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingArt_135
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

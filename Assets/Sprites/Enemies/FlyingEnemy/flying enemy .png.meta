@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 01d473e6e88a846599c632f48ab58d04
+timeCreated: 1488749452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flying enemy _0
+    21300002: flying enemy _1
+    21300004: flying enemy _2
+    21300006: flying enemy _3
+    21300008: flying enemy _4
+    21300010: flying enemy _5
+    21300012: flying enemy _6
+    21300014: flying enemy _7
+    21300016: flying enemy _8
+    21300018: flying enemy _9
+    21300020: flying enemy _10
+    21300022: flying enemy _11
+    21300024: flying enemy _12
+    21300026: flying enemy _13
+    21300028: flying enemy _14
+    21300030: flying enemy _15
+    21300032: flying enemy _16
+    21300034: flying enemy _17
+    21300036: flying enemy _18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying enemy _0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3765
+        width: 236
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _1
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3765
+        width: 242
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _2
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3767
+        width: 225
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3346
+        width: 218
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3333
+        width: 236
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _5
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3336
+        width: 223
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2904
+        width: 228
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2904
+        width: 228
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _8
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 2904
+        width: 229
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2500
+        width: 225
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2484
+        width: 225
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _11
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2481
+        width: 232
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2063
+        width: 235
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2073
+        width: 248
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2054
+        width: 248
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1630
+        width: 241
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _16
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1633
+        width: 238
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1630
+        width: 250
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: flying enemy _18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1287
+        width: 247
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

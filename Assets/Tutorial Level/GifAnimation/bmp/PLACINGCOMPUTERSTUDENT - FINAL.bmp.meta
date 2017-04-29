@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: c26aff42d70523c4b8b0d999016fb79f
+timeCreated: 1490286114
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLACINGCOMPUTERSTUDENT - FINAL_0
+    21300002: PLACINGCOMPUTERSTUDENT - FINAL_1
+    21300004: PLACINGCOMPUTERSTUDENT - FINAL_2
+    21300006: PLACINGCOMPUTERSTUDENT - FINAL_3
+    21300008: PLACINGCOMPUTERSTUDENT - FINAL_4
+    21300010: PLACINGCOMPUTERSTUDENT - FINAL_5
+    21300012: PLACINGCOMPUTERSTUDENT - FINAL_6
+    21300014: PLACINGCOMPUTERSTUDENT - FINAL_7
+    21300016: PLACINGCOMPUTERSTUDENT - FINAL_8
+    21300018: PLACINGCOMPUTERSTUDENT - FINAL_9
+    21300020: PLACINGCOMPUTERSTUDENT - FINAL_10
+    21300022: PLACINGCOMPUTERSTUDENT - FINAL_11
+    21300024: PLACINGCOMPUTERSTUDENT - FINAL_12
+    21300026: PLACINGCOMPUTERSTUDENT - FINAL_13
+    21300028: PLACINGCOMPUTERSTUDENT - FINAL_14
+    21300030: PLACINGCOMPUTERSTUDENT - FINAL_15
+    21300032: PLACINGCOMPUTERSTUDENT - FINAL_16
+    21300034: PLACINGCOMPUTERSTUDENT - FINAL_17
+    21300036: PLACINGCOMPUTERSTUDENT - FINAL_18
+    21300038: PLACINGCOMPUTERSTUDENT - FINAL_19
+    21300040: PLACINGCOMPUTERSTUDENT - FINAL_20
+    21300042: PLACINGCOMPUTERSTUDENT - FINAL_21
+    21300044: PLACINGCOMPUTERSTUDENT - FINAL_22
+    21300046: PLACINGCOMPUTERSTUDENT - FINAL_23
+    21300048: PLACINGCOMPUTERSTUDENT - FINAL_24
+    21300050: PLACINGCOMPUTERSTUDENT - FINAL_25
+    21300052: PLACINGCOMPUTERSTUDENT - FINAL_26
+    21300054: PLACINGCOMPUTERSTUDENT - FINAL_27
+    21300056: PLACINGCOMPUTERSTUDENT - FINAL_28
+    21300058: PLACINGCOMPUTERSTUDENT - FINAL_29
+    21300060: PLACINGCOMPUTERSTUDENT - FINAL_30
+    21300062: PLACINGCOMPUTERSTUDENT - FINAL_31
+    21300064: PLACINGCOMPUTERSTUDENT - FINAL_32
+    21300066: PLACINGCOMPUTERSTUDENT - FINAL_33
+    21300068: PLACINGCOMPUTERSTUDENT - FINAL_34
+    21300070: PLACINGCOMPUTERSTUDENT - FINAL_35
+    21300072: PLACINGCOMPUTERSTUDENT - FINAL_36
+    21300074: PLACINGCOMPUTERSTUDENT - FINAL_37
+    21300076: PLACINGCOMPUTERSTUDENT - FINAL_38
+    21300078: PLACINGCOMPUTERSTUDENT - FINAL_39
+    21300080: PLACINGCOMPUTERSTUDENT - FINAL_40
+    21300082: PLACINGCOMPUTERSTUDENT - FINAL_41
+    21300084: PLACINGCOMPUTERSTUDENT - FINAL_42
+    21300086: PLACINGCOMPUTERSTUDENT - FINAL_43
+    21300088: PLACINGCOMPUTERSTUDENT - FINAL_44
+    21300090: PLACINGCOMPUTERSTUDENT - FINAL_45
+    21300092: PLACINGCOMPUTERSTUDENT - FINAL_46
+    21300094: PLACINGCOMPUTERSTUDENT - FINAL_47
+    21300096: PLACINGCOMPUTERSTUDENT - FINAL_48
+    21300098: PLACINGCOMPUTERSTUDENT - FINAL_49
+    21300100: PLACINGCOMPUTERSTUDENT - FINAL_50
+    21300102: PLACINGCOMPUTERSTUDENT - FINAL_51
+    21300104: PLACINGCOMPUTERSTUDENT - FINAL_52
+    21300106: PLACINGCOMPUTERSTUDENT - FINAL_53
+    21300108: PLACINGCOMPUTERSTUDENT - FINAL_54
+    21300110: PLACINGCOMPUTERSTUDENT - FINAL_55
+    21300112: PLACINGCOMPUTERSTUDENT - FINAL_56
+    21300114: PLACINGCOMPUTERSTUDENT - FINAL_57
+    21300116: PLACINGCOMPUTERSTUDENT - FINAL_58
+    21300118: PLACINGCOMPUTERSTUDENT - FINAL_59
+    21300120: PLACINGCOMPUTERSTUDENT - FINAL_60
+    21300122: PLACINGCOMPUTERSTUDENT - FINAL_61
+    21300124: PLACINGCOMPUTERSTUDENT - FINAL_62
+    21300126: PLACINGCOMPUTERSTUDENT - FINAL_63
+    21300128: PLACINGCOMPUTERSTUDENT - FINAL_64
+    21300130: PLACINGCOMPUTERSTUDENT - FINAL_65
+    21300132: PLACINGCOMPUTERSTUDENT - FINAL_66
+    21300134: PLACINGCOMPUTERSTUDENT - FINAL_67
+    21300136: PLACINGCOMPUTERSTUDENT - FINAL_68
+    21300138: PLACINGCOMPUTERSTUDENT - FINAL_69
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_16
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_17
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_26
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_33
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_34
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_35
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_41
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_42
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_43
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_50
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_51
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_52
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_53
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_56
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_57
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_60
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_61
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_62
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_66
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_67
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_68
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGCOMPUTERSTUDENT - FINAL_69
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

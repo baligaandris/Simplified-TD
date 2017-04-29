@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: 1a04a41031cc60f4abc1b1876f93ef94
+timeCreated: 1490286141
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLACINGGYMSTUDENT - FINAL_0
+    21300002: PLACINGGYMSTUDENT - FINAL_1
+    21300004: PLACINGGYMSTUDENT - FINAL_2
+    21300006: PLACINGGYMSTUDENT - FINAL_3
+    21300008: PLACINGGYMSTUDENT - FINAL_4
+    21300010: PLACINGGYMSTUDENT - FINAL_5
+    21300012: PLACINGGYMSTUDENT - FINAL_6
+    21300014: PLACINGGYMSTUDENT - FINAL_7
+    21300016: PLACINGGYMSTUDENT - FINAL_8
+    21300018: PLACINGGYMSTUDENT - FINAL_9
+    21300020: PLACINGGYMSTUDENT - FINAL_10
+    21300022: PLACINGGYMSTUDENT - FINAL_11
+    21300024: PLACINGGYMSTUDENT - FINAL_12
+    21300026: PLACINGGYMSTUDENT - FINAL_13
+    21300028: PLACINGGYMSTUDENT - FINAL_14
+    21300030: PLACINGGYMSTUDENT - FINAL_15
+    21300032: PLACINGGYMSTUDENT - FINAL_16
+    21300034: PLACINGGYMSTUDENT - FINAL_17
+    21300036: PLACINGGYMSTUDENT - FINAL_18
+    21300038: PLACINGGYMSTUDENT - FINAL_19
+    21300040: PLACINGGYMSTUDENT - FINAL_20
+    21300042: PLACINGGYMSTUDENT - FINAL_21
+    21300044: PLACINGGYMSTUDENT - FINAL_22
+    21300046: PLACINGGYMSTUDENT - FINAL_23
+    21300048: PLACINGGYMSTUDENT - FINAL_24
+    21300050: PLACINGGYMSTUDENT - FINAL_25
+    21300052: PLACINGGYMSTUDENT - FINAL_26
+    21300054: PLACINGGYMSTUDENT - FINAL_27
+    21300056: PLACINGGYMSTUDENT - FINAL_28
+    21300058: PLACINGGYMSTUDENT - FINAL_29
+    21300060: PLACINGGYMSTUDENT - FINAL_30
+    21300062: PLACINGGYMSTUDENT - FINAL_31
+    21300064: PLACINGGYMSTUDENT - FINAL_32
+    21300066: PLACINGGYMSTUDENT - FINAL_33
+    21300068: PLACINGGYMSTUDENT - FINAL_34
+    21300070: PLACINGGYMSTUDENT - FINAL_35
+    21300072: PLACINGGYMSTUDENT - FINAL_36
+    21300074: PLACINGGYMSTUDENT - FINAL_37
+    21300076: PLACINGGYMSTUDENT - FINAL_38
+    21300078: PLACINGGYMSTUDENT - FINAL_39
+    21300080: PLACINGGYMSTUDENT - FINAL_40
+    21300082: PLACINGGYMSTUDENT - FINAL_41
+    21300084: PLACINGGYMSTUDENT - FINAL_42
+    21300086: PLACINGGYMSTUDENT - FINAL_43
+    21300088: PLACINGGYMSTUDENT - FINAL_44
+    21300090: PLACINGGYMSTUDENT - FINAL_45
+    21300092: PLACINGGYMSTUDENT - FINAL_46
+    21300094: PLACINGGYMSTUDENT - FINAL_47
+    21300096: PLACINGGYMSTUDENT - FINAL_48
+    21300098: PLACINGGYMSTUDENT - FINAL_49
+    21300100: PLACINGGYMSTUDENT - FINAL_50
+    21300102: PLACINGGYMSTUDENT - FINAL_51
+    21300104: PLACINGGYMSTUDENT - FINAL_52
+    21300106: PLACINGGYMSTUDENT - FINAL_53
+    21300108: PLACINGGYMSTUDENT - FINAL_54
+    21300110: PLACINGGYMSTUDENT - FINAL_55
+    21300112: PLACINGGYMSTUDENT - FINAL_56
+    21300114: PLACINGGYMSTUDENT - FINAL_57
+    21300116: PLACINGGYMSTUDENT - FINAL_58
+    21300118: PLACINGGYMSTUDENT - FINAL_59
+    21300120: PLACINGGYMSTUDENT - FINAL_60
+    21300122: PLACINGGYMSTUDENT - FINAL_61
+    21300124: PLACINGGYMSTUDENT - FINAL_62
+    21300126: PLACINGGYMSTUDENT - FINAL_63
+    21300128: PLACINGGYMSTUDENT - FINAL_64
+    21300130: PLACINGGYMSTUDENT - FINAL_65
+    21300132: PLACINGGYMSTUDENT - FINAL_66
+    21300134: PLACINGGYMSTUDENT - FINAL_67
+    21300136: PLACINGGYMSTUDENT - FINAL_68
+    21300138: PLACINGGYMSTUDENT - FINAL_69
+    21300140: PLACINGGYMSTUDENT - FINAL_70
+    21300142: PLACINGGYMSTUDENT - FINAL_71
+    21300144: PLACINGGYMSTUDENT - FINAL_72
+    21300146: PLACINGGYMSTUDENT - FINAL_73
+    21300148: PLACINGGYMSTUDENT - FINAL_74
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_16
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_17
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_26
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_33
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_34
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_35
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_41
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_42
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_43
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_50
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_51
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_52
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_53
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_56
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_57
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_60
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_61
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_62
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_66
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_67
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_68
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_69
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_70
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_71
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_73
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGGYMSTUDENT - FINAL_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

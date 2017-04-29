@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: a2588b2a5ec834a9eb9f33ef01aac8e4
+timeCreated: 1490481287
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: main menu_0
+    21300002: main menu_1
+    21300004: main menu_2
+    21300006: main menu_3
+    21300008: main menu_4
+    21300010: main menu_5
+    21300012: main menu_6
+    21300014: main menu_7
+    21300016: main menu_8
+    21300018: main menu_9
+    21300020: main menu_10
+    21300022: main menu_11
+    21300024: main menu_12
+    21300026: main menu_13
+    21300028: main menu_14
+    21300030: main menu_15
+    21300032: main menu_16
+    21300034: main menu_17
+    21300036: main menu_18
+    21300038: main menu_19
+    21300040: main menu_20
+    21300042: main menu_21
+    21300044: main menu_22
+    21300046: main menu_23
+    21300048: main menu_24
+    21300050: main menu_25
+    21300052: main menu_26
+    21300054: main menu_27
+    21300056: main menu_28
+    21300058: main menu_29
+    21300060: main menu_30
+    21300062: main menu_31
+    21300064: main menu_32
+    21300066: main menu_33
+    21300068: main menu_34
+    21300070: main menu_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main menu_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 7717
+        width: 702
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_1
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 7720
+        width: 701
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_2
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 7720
+        width: 701
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_3
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 7715
+        width: 701
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_4
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 7718
+        width: 697
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_5
+      rect:
+        serializedVersion: 2
+        x: 6648
+        y: 7720
+        width: 695
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6980
+        width: 707
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_7
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 6978
+        width: 705
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_8
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 6986
+        width: 699
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_9
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 6984
+        width: 703
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_10
+      rect:
+        serializedVersion: 2
+        x: 5369
+        y: 6980
+        width: 699
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_11
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 6980
+        width: 697
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6246
+        width: 701
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6240
+        width: 704
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_14
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 6238
+        width: 704
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_15
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 6238
+        width: 709
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_16
+      rect:
+        serializedVersion: 2
+        x: 5366
+        y: 6240
+        width: 701
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_17
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 6238
+        width: 709
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5504
+        width: 703
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5501
+        width: 703
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_20
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 5501
+        width: 706
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_21
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 5504
+        width: 703
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_22
+      rect:
+        serializedVersion: 2
+        x: 5366
+        y: 5504
+        width: 703
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_23
+      rect:
+        serializedVersion: 2
+        x: 6645
+        y: 5504
+        width: 701
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4765
+        width: 714
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_25
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 4759
+        width: 704
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_26
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 4765
+        width: 698
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_27
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 4762
+        width: 699
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_28
+      rect:
+        serializedVersion: 2
+        x: 5366
+        y: 4759
+        width: 709
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_29
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 4757
+        width: 704
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4024
+        width: 704
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_31
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 4024
+        width: 707
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_32
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 4027
+        width: 704
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_33
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 4029
+        width: 711
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_34
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 4024
+        width: 703
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main menu_35
+      rect:
+        serializedVersion: 2
+        x: 6643
+        y: 4024
+        width: 712
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

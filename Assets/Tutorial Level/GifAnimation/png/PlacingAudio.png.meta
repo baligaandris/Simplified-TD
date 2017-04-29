@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 6c9dfca143bbf124abd8efd1ed0881dd
+timeCreated: 1490287925
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlacingAudio_0
+    21300002: PlacingAudio_1
+    21300004: PlacingAudio_2
+    21300006: PlacingAudio_3
+    21300008: PlacingAudio_4
+    21300010: PlacingAudio_5
+    21300012: PlacingAudio_6
+    21300014: PlacingAudio_7
+    21300016: PlacingAudio_8
+    21300018: PlacingAudio_9
+    21300020: PlacingAudio_10
+    21300022: PlacingAudio_11
+    21300024: PlacingAudio_12
+    21300026: PlacingAudio_13
+    21300028: PlacingAudio_14
+    21300030: PlacingAudio_15
+    21300032: PlacingAudio_16
+    21300034: PlacingAudio_17
+    21300036: PlacingAudio_18
+    21300038: PlacingAudio_19
+    21300040: PlacingAudio_20
+    21300042: PlacingAudio_21
+    21300044: PlacingAudio_22
+    21300046: PlacingAudio_23
+    21300048: PlacingAudio_24
+    21300050: PlacingAudio_25
+    21300052: PlacingAudio_26
+    21300054: PlacingAudio_27
+    21300056: PlacingAudio_28
+    21300058: PlacingAudio_29
+    21300060: PlacingAudio_30
+    21300062: PlacingAudio_31
+    21300064: PlacingAudio_32
+    21300066: PlacingAudio_33
+    21300068: PlacingAudio_34
+    21300070: PlacingAudio_35
+    21300072: PlacingAudio_36
+    21300074: PlacingAudio_37
+    21300076: PlacingAudio_38
+    21300078: PlacingAudio_39
+    21300080: PlacingAudio_40
+    21300082: PlacingAudio_41
+    21300084: PlacingAudio_42
+    21300086: PlacingAudio_43
+    21300088: PlacingAudio_44
+    21300090: PlacingAudio_45
+    21300092: PlacingAudio_46
+    21300094: PlacingAudio_47
+    21300096: PlacingAudio_48
+    21300098: PlacingAudio_49
+    21300100: PlacingAudio_50
+    21300102: PlacingAudio_51
+    21300104: PlacingAudio_52
+    21300106: PlacingAudio_53
+    21300108: PlacingAudio_54
+    21300110: PlacingAudio_55
+    21300112: PlacingAudio_56
+    21300114: PlacingAudio_57
+    21300116: PlacingAudio_58
+    21300118: PlacingAudio_59
+    21300120: PlacingAudio_60
+    21300122: PlacingAudio_61
+    21300124: PlacingAudio_62
+    21300126: PlacingAudio_63
+    21300128: PlacingAudio_64
+    21300130: PlacingAudio_65
+    21300132: PlacingAudio_66
+    21300134: PlacingAudio_67
+    21300136: PlacingAudio_68
+    21300138: PlacingAudio_69
+    21300140: PlacingAudio_70
+    21300142: PlacingAudio_71
+    21300144: PlacingAudio_72
+    21300146: PlacingAudio_73
+    21300148: PlacingAudio_74
+    21300150: PlacingAudio_75
+    21300152: PlacingAudio_76
+    21300154: PlacingAudio_77
+    21300156: PlacingAudio_78
+    21300158: PlacingAudio_79
+    21300160: PlacingAudio_80
+    21300162: PlacingAudio_81
+    21300164: PlacingAudio_82
+    21300166: PlacingAudio_83
+    21300168: PlacingAudio_84
+    21300170: PlacingAudio_85
+    21300172: PlacingAudio_86
+    21300174: PlacingAudio_87
+    21300176: PlacingAudio_88
+    21300178: PlacingAudio_89
+    21300180: PlacingAudio_90
+    21300182: PlacingAudio_91
+    21300184: PlacingAudio_92
+    21300186: PlacingAudio_93
+    21300188: PlacingAudio_94
+    21300190: PlacingAudio_95
+    21300192: PlacingAudio_96
+    21300194: PlacingAudio_97
+    21300196: PlacingAudio_98
+    21300198: PlacingAudio_99
+    21300200: PlacingAudio_100
+    21300202: PlacingAudio_101
+    21300204: PlacingAudio_102
+    21300206: PlacingAudio_103
+    21300208: PlacingAudio_104
+    21300210: PlacingAudio_105
+    21300212: PlacingAudio_106
+    21300214: PlacingAudio_107
+    21300216: PlacingAudio_108
+    21300218: PlacingAudio_109
+    21300220: PlacingAudio_110
+    21300222: PlacingAudio_111
+    21300224: PlacingAudio_112
+    21300226: PlacingAudio_113
+    21300228: PlacingAudio_114
+    21300230: PlacingAudio_115
+    21300232: PlacingAudio_116
+    21300234: PlacingAudio_117
+    21300236: PlacingAudio_118
+    21300238: PlacingAudio_119
+    21300240: PlacingAudio_120
+    21300242: PlacingAudio_121
+    21300244: PlacingAudio_122
+    21300246: PlacingAudio_123
+    21300248: PlacingAudio_124
+    21300250: PlacingAudio_125
+    21300252: PlacingAudio_126
+    21300254: PlacingAudio_127
+    21300256: PlacingAudio_128
+    21300258: PlacingAudio_129
+    21300260: PlacingAudio_130
+    21300262: PlacingAudio_131
+    21300264: PlacingAudio_132
+    21300266: PlacingAudio_133
+    21300268: PlacingAudio_134
+    21300270: PlacingAudio_135
+    21300272: PlacingAudio_136
+    21300274: PlacingAudio_137
+    21300276: PlacingAudio_138
+    21300278: PlacingAudio_139
+    21300280: PlacingAudio_140
+    21300282: PlacingAudio_141
+    21300284: PlacingAudio_142
+    21300286: PlacingAudio_143
+    21300288: PlacingAudio_144
+    21300290: PlacingAudio_145
+    21300292: PlacingAudio_146
+    21300294: PlacingAudio_147
+    21300296: PlacingAudio_148
+    21300298: PlacingAudio_149
+    21300300: PlacingAudio_150
+    21300302: PlacingAudio_151
+    21300304: PlacingAudio_152
+    21300306: PlacingAudio_153
+    21300308: PlacingAudio_154
+    21300310: PlacingAudio_155
+    21300312: PlacingAudio_156
+    21300314: PlacingAudio_157
+    21300316: PlacingAudio_158
+    21300318: PlacingAudio_159
+    21300320: PlacingAudio_160
+    21300322: PlacingAudio_161
+    21300324: PlacingAudio_162
+    21300326: PlacingAudio_163
+    21300328: PlacingAudio_164
+    21300330: PlacingAudio_165
+    21300332: PlacingAudio_166
+    21300334: PlacingAudio_167
+    21300336: PlacingAudio_168
+    21300338: PlacingAudio_169
+    21300340: PlacingAudio_170
+    21300342: PlacingAudio_171
+    21300344: PlacingAudio_172
+    21300346: PlacingAudio_173
+    21300348: PlacingAudio_174
+    21300350: PlacingAudio_175
+    21300352: PlacingAudio_176
+    21300354: PlacingAudio_177
+    21300356: PlacingAudio_178
+    21300358: PlacingAudio_179
+    21300360: PlacingAudio_180
+    21300362: PlacingAudio_181
+    21300364: PlacingAudio_182
+    21300366: PlacingAudio_183
+    21300368: PlacingAudio_184
+    21300370: PlacingAudio_185
+    21300372: PlacingAudio_186
+    21300374: PlacingAudio_187
+    21300376: PlacingAudio_188
+    21300378: PlacingAudio_189
+    21300380: PlacingAudio_190
+    21300382: PlacingAudio_191
+    21300384: PlacingAudio_192
+    21300386: PlacingAudio_193
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlacingAudio_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_10
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_11
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_12
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_13
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 5460
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_17
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_18
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_21
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_22
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_23
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_24
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_25
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_26
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_27
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 5040
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_34
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_36
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_37
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_38
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_39
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_40
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_41
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 4620
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_45
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_46
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_48
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_49
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_50
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_51
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_52
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_53
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_54
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_55
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 4200
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_59
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_60
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_61
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_62
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_63
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_64
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_65
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_66
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_67
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_68
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_69
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 3780
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_72
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_73
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_74
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_75
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_76
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_77
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_78
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_79
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_80
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_81
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_82
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_83
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 3360
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_86
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_87
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_88
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_89
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_90
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_91
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_92
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_93
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_94
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_95
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_96
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_97
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 2940
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_101
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_102
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_103
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_104
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_105
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_106
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_107
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_108
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_109
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_110
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_111
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 2520
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_113
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_114
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_115
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_116
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_117
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_118
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_119
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_120
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_121
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_122
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_123
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_124
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_125
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 2100
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_127
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_128
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_129
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_130
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_131
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_132
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_133
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_134
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_135
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_136
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_137
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_138
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_139
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 1680
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_142
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_144
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_145
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_146
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_147
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_148
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_149
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_150
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_151
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_152
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_153
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 1260
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_156
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_157
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_158
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_159
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_160
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_161
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_162
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_163
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_164
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_165
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_166
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_167
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 840
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_171
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_172
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_173
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_174
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_175
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_176
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_177
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_178
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_179
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_180
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_181
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 420
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_183
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_184
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_185
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_186
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_187
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_188
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_189
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_190
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_191
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_192
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlacingAudio_193
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 640
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

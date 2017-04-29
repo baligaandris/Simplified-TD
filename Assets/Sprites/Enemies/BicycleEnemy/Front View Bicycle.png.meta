@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: c31f3eccd8cb343a98d9a1a9e382551b
+timeCreated: 1488735084
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Front View Bicycle_0
+    21300002: Front View Bicycle_1
+    21300004: Front View Bicycle_2
+    21300006: Front View Bicycle_3
+    21300008: Front View Bicycle_4
+    21300010: Front View Bicycle_5
+    21300012: Front View Bicycle_6
+    21300014: Front View Bicycle_7
+    21300016: Front View Bicycle_8
+    21300018: Front View Bicycle_9
+    21300020: Front View Bicycle_10
+    21300022: Front View Bicycle_11
+    21300024: Front View Bicycle_12
+    21300026: Front View Bicycle_13
+    21300028: Front View Bicycle_14
+    21300030: Front View Bicycle_15
+    21300032: Front View Bicycle_16
+    21300034: Front View Bicycle_17
+    21300036: Front View Bicycle_18
+    21300038: Front View Bicycle_19
+    21300040: Front View Bicycle_20
+    21300042: Front View Bicycle_21
+    21300044: Front View Bicycle_22
+    21300046: Front View Bicycle_23
+    21300048: Front View Bicycle_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Front View Bicycle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3475
+        width: 252
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3470
+        width: 253
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3467
+        width: 251
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3461
+        width: 250
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3455
+        width: 251
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_5
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3461
+        width: 256
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2736
+        width: 252
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2743
+        width: 252
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2744
+        width: 256
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_9
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2751
+        width: 252
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_10
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2747
+        width: 250
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_11
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2743
+        width: 256
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2019
+        width: 252
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2015
+        width: 257
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2011
+        width: 256
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2018
+        width: 257
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2024
+        width: 256
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_17
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2031
+        width: 250
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1313
+        width: 252
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1317
+        width: 253
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_20
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1315
+        width: 251
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_21
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1311
+        width: 250
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_22
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1307
+        width: 250
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_23
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1305
+        width: 256
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Front View Bicycle_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 595
+        width: 252
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 5d19a976a87ae3443ab0bae08c9b6e11
+timeCreated: 1490286564
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLACINGARTSTUDENT - FINAL_0
+    21300002: PLACINGARTSTUDENT - FINAL_1
+    21300004: PLACINGARTSTUDENT - FINAL_2
+    21300006: PLACINGARTSTUDENT - FINAL_3
+    21300008: PLACINGARTSTUDENT - FINAL_4
+    21300010: PLACINGARTSTUDENT - FINAL_5
+    21300012: PLACINGARTSTUDENT - FINAL_6
+    21300014: PLACINGARTSTUDENT - FINAL_7
+    21300016: PLACINGARTSTUDENT - FINAL_8
+    21300018: PLACINGARTSTUDENT - FINAL_9
+    21300020: PLACINGARTSTUDENT - FINAL_10
+    21300022: PLACINGARTSTUDENT - FINAL_11
+    21300024: PLACINGARTSTUDENT - FINAL_12
+    21300026: PLACINGARTSTUDENT - FINAL_13
+    21300028: PLACINGARTSTUDENT - FINAL_14
+    21300030: PLACINGARTSTUDENT - FINAL_15
+    21300032: PLACINGARTSTUDENT - FINAL_16
+    21300034: PLACINGARTSTUDENT - FINAL_17
+    21300036: PLACINGARTSTUDENT - FINAL_18
+    21300038: PLACINGARTSTUDENT - FINAL_19
+    21300040: PLACINGARTSTUDENT - FINAL_20
+    21300042: PLACINGARTSTUDENT - FINAL_21
+    21300044: PLACINGARTSTUDENT - FINAL_22
+    21300046: PLACINGARTSTUDENT - FINAL_23
+    21300048: PLACINGARTSTUDENT - FINAL_24
+    21300050: PLACINGARTSTUDENT - FINAL_25
+    21300052: PLACINGARTSTUDENT - FINAL_26
+    21300054: PLACINGARTSTUDENT - FINAL_27
+    21300056: PLACINGARTSTUDENT - FINAL_28
+    21300058: PLACINGARTSTUDENT - FINAL_29
+    21300060: PLACINGARTSTUDENT - FINAL_30
+    21300062: PLACINGARTSTUDENT - FINAL_31
+    21300064: PLACINGARTSTUDENT - FINAL_32
+    21300066: PLACINGARTSTUDENT - FINAL_33
+    21300068: PLACINGARTSTUDENT - FINAL_34
+    21300070: PLACINGARTSTUDENT - FINAL_35
+    21300072: PLACINGARTSTUDENT - FINAL_36
+    21300074: PLACINGARTSTUDENT - FINAL_37
+    21300076: PLACINGARTSTUDENT - FINAL_38
+    21300078: PLACINGARTSTUDENT - FINAL_39
+    21300080: PLACINGARTSTUDENT - FINAL_40
+    21300082: PLACINGARTSTUDENT - FINAL_41
+    21300084: PLACINGARTSTUDENT - FINAL_42
+    21300086: PLACINGARTSTUDENT - FINAL_43
+    21300088: PLACINGARTSTUDENT - FINAL_44
+    21300090: PLACINGARTSTUDENT - FINAL_45
+    21300092: PLACINGARTSTUDENT - FINAL_46
+    21300094: PLACINGARTSTUDENT - FINAL_47
+    21300096: PLACINGARTSTUDENT - FINAL_48
+    21300098: PLACINGARTSTUDENT - FINAL_49
+    21300100: PLACINGARTSTUDENT - FINAL_50
+    21300102: PLACINGARTSTUDENT - FINAL_51
+    21300104: PLACINGARTSTUDENT - FINAL_52
+    21300106: PLACINGARTSTUDENT - FINAL_53
+    21300108: PLACINGARTSTUDENT - FINAL_54
+    21300110: PLACINGARTSTUDENT - FINAL_55
+    21300112: PLACINGARTSTUDENT - FINAL_56
+    21300114: PLACINGARTSTUDENT - FINAL_57
+    21300116: PLACINGARTSTUDENT - FINAL_58
+    21300118: PLACINGARTSTUDENT - FINAL_59
+    21300120: PLACINGARTSTUDENT - FINAL_60
+    21300122: PLACINGARTSTUDENT - FINAL_61
+    21300124: PLACINGARTSTUDENT - FINAL_62
+    21300126: PLACINGARTSTUDENT - FINAL_63
+    21300128: PLACINGARTSTUDENT - FINAL_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3359
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_16
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_17
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2938
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_26
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2517
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_33
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_34
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_35
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2096
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_41
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_42
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_43
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1675
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_50
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_51
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_52
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_53
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1254
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_56
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_57
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_60
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_61
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_62
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 833
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PLACINGARTSTUDENT - FINAL_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 412
+        width: 640
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

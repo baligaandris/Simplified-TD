@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3f9e76af972a73c42bebb5769f687e9d
+timeCreated: 1488727295
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bicycle Animation (2)_0
+    21300002: Bicycle Animation (2)_1
+    21300004: Bicycle Animation (2)_2
+    21300006: Bicycle Animation (2)_3
+    21300008: Bicycle Animation (2)_4
+    21300010: Bicycle Animation (2)_5
+    21300012: Bicycle Animation (2)_6
+    21300014: Bicycle Animation (2)_7
+    21300016: Bicycle Animation (2)_8
+    21300018: Bicycle Animation (2)_9
+    21300020: Bicycle Animation (2)_12
+    21300022: Bicycle Animation (2)_15
+    21300024: Bicycle Animation (2)_16
+    21300026: Bicycle Animation (2)_19
+    21300028: Bicycle Animation (2)_22
+    21300030: Bicycle Animation (2)_25
+    21300032: Bicycle Animation (2)_28
+    21300034: Bicycle Animation (2)_31
+    21300036: Bicycle Animation (2)_46
+    21300038: Bicycle Animation (2)_47
+    21300040: Bicycle Animation (2)_48
+    21300042: Bicycle Animation (2)_49
+    21300044: Bicycle Animation (2)_50
+    21300046: Bicycle Animation (2)_51
+    21300048: Bicycle Animation (2)_54
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3416
+        width: 545
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3417
+        width: 542
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 3413
+        width: 542
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3408
+        width: 544
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 3383
+        width: 539
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_5
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 3383
+        width: 540
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2583
+        width: 545
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2581
+        width: 543
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2581
+        width: 544
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2579
+        width: 547
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_12
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 2576
+        width: 547
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_15
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2573
+        width: 545
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1760
+        width: 545
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1757
+        width: 538
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1752
+        width: 538
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_25
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1755
+        width: 544
+        height: 738
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_28
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1752
+        width: 542
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_31
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1757
+        width: 544
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 939
+        width: 546
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_47
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 938
+        width: 547
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_48
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 936
+        width: 549
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_49
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 936
+        width: 547
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 941
+        width: 538
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_51
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 943
+        width: 548
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bicycle Animation (2)_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 120
+        width: 545
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

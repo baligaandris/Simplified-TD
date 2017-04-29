@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 3cf303deeb05749119b3afbc7b35f927
+timeCreated: 1488735108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Back View Bicycle_0
+    21300002: Back View Bicycle_1
+    21300004: Back View Bicycle_2
+    21300006: Back View Bicycle_3
+    21300008: Back View Bicycle_4
+    21300010: Back View Bicycle_5
+    21300012: Back View Bicycle_6
+    21300014: Back View Bicycle_7
+    21300016: Back View Bicycle_8
+    21300018: Back View Bicycle_9
+    21300020: Back View Bicycle_10
+    21300022: Back View Bicycle_11
+    21300024: Back View Bicycle_12
+    21300026: Back View Bicycle_13
+    21300028: Back View Bicycle_14
+    21300030: Back View Bicycle_15
+    21300032: Back View Bicycle_16
+    21300034: Back View Bicycle_17
+    21300036: Back View Bicycle_18
+    21300038: Back View Bicycle_19
+    21300040: Back View Bicycle_20
+    21300042: Back View Bicycle_21
+    21300044: Back View Bicycle_22
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back View Bicycle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3423
+        width: 252
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3416
+        width: 256
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3414
+        width: 251
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3408
+        width: 250
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3405
+        width: 256
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_5
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 3408
+        width: 252
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2633
+        width: 252
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2637
+        width: 256
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2641
+        width: 253
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_9
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2647
+        width: 252
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2648
+        width: 252
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_11
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2651
+        width: 257
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1881
+        width: 257
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1883
+        width: 258
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1880
+        width: 258
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1879
+        width: 257
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_16
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1877
+        width: 251
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_17
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1872
+        width: 252
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1117
+        width: 252
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1120
+        width: 256
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_20
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1123
+        width: 256
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_21
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1125
+        width: 252
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Back View Bicycle_22
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1129
+        width: 252
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
