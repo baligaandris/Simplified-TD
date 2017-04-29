@@ -36,7 +36,7 @@ public class EnemyHealthScript : MonoBehaviour {
                 {
                     GameObject spawnedEnemy = Instantiate(EnemyToSpawn, new Vector3(transform.position.x + Random.Range(-1, 1), 0, transform.position.z + Random.Range(-1, 1)), Quaternion.identity);
                     spawnedEnemy.GetComponent<EnemyNavScript>().ChangeTargetWaypoint(gameObject.GetComponent<EnemyNavScript>().currentWayPoint);
-                    spawnedEnemy.GetComponent<EnemyNavScript>().ChangeAnimationDirection(gameObject.GetComponent<EnemyNavScript>().direction);
+                    //spawnedEnemy.GetComponent<EnemyNavScript>().ChangeAnimationDirection(gameObject.GetComponent<EnemyNavScript>().direction);
                 }
                 Destroy(gameObject);
             }

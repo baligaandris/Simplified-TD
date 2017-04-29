@@ -46,7 +46,7 @@ public class EnemyNavScript : MonoBehaviour
             }
             else
             {
-                ChangeAnimationDirection(currentWayPoint.GetComponent<WaypointScript>().dir);
+                //ChangeAnimationDirection(currentWayPoint.GetComponent<WaypointScript>().dir);
 
                 ChangeTargetWaypoint(currentWayPoint.GetComponent<WaypointScript>().nextWayPoint);
             }
@@ -109,13 +109,13 @@ public class EnemyNavScript : MonoBehaviour
             }
         }
         targetToMoveTo = closestExitPoint.transform.position;
-        if (targetToMoveTo.x < transform.position.x)
-        {
-            ChangeAnimationDirection(WaypointScript.direction.left);
-        }
-        else {
-            ChangeAnimationDirection(WaypointScript.direction.right);
-        }
+        //if (targetToMoveTo.x < transform.position.x)
+        //{
+        //    ChangeAnimationDirection(WaypointScript.direction.left);
+        //}
+        //else {
+        //    ChangeAnimationDirection(WaypointScript.direction.right);
+        //}
     }
 
     public void SlowMeDown(float slowBy, float slowDuration)

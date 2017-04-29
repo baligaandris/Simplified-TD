@@ -15,7 +15,7 @@ public class aoeTowerProjectileScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x + speed * Time.deltaTime, gameObject.transform.localScale.y + speed * Time.deltaTime, gameObject.transform.localScale.z + speed * Time.deltaTime);
+        gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x + speed * Time.deltaTime, gameObject.transform.localScale.y/* + speed * Time.deltaTime*/, gameObject.transform.localScale.z + speed * Time.deltaTime);
 	}
 
     IEnumerator WaitAndDestroy() {

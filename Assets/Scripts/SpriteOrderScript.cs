@@ -14,13 +14,13 @@ public class SpriteOrderScript : MonoBehaviour {
 		
 	}
 
-    private void OnTriggerEnter(Collider collider)
-    {
-        if (collider.gameObject.tag == "Enemy")
-        {
-            collider.GetComponentInChildren<SpriteRenderer>().sortingOrder -= 2;
-            collider.GetComponentInChildren<Canvas>().sortingOrder -= 2;
+    //private void OnTriggerEnter(Collider collider)
+    //{
+    //    if (collider.gameObject.tag == "Enemy")
+    //    {
+    //        collider.GetComponentInChildren<SpriteRenderer>().sortingOrder -= 2;
+    //        collider.GetComponentInChildren<Canvas>().sortingOrder -= 2;
 
-        }
-    }
+    //    }
+    //}
 }
